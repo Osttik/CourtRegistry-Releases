@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "0.3.23",
-  "installerUrl": "https://github.com/Osttik/CourtRegistry-Releases/releases/download/v0.3.23/CourtRegistry-Update-0.3.23.exe",
-  "sha256": "48125A843B2EC0FAF28024EEECA5218CE5DEAF7DF648FE9078D4008AA2C7D918",
-  "size": 102338631,
-  "signature": "jhYotRSp4UGOgG7Wh26E1oOC99cSyRSPoc94s9KgO9lwAG8dWsZLD44A5QRqauZzYmeDeKEo5ED6H53IBZ+YAg=="
+  "version": "0.3.24",
+  "installerUrl": "https://github.com/Osttik/CourtRegistry-Releases/releases/download/v0.3.24/CourtRegistry-Update-0.3.24.exe",
+  "sha256": "F1ED6C8D928C46D6F42A1E2695F620845A2B9CD77947105B4A6E58A2127DA5CE",
+  "size": 102422864,
+  "signature": "H4t1bLjxwrhkX3Uk+7z2IfPnG2VKdgXZMu++CYNbSLcBHtFwPsWbp6v+nS9FbEvbr/VDMu8hcAscuLmYttKACA=="
 }
