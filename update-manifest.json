@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "0.3.40",
-  "installerUrl": "https://github.com/Osttik/CourtRegistry-Releases/releases/download/v0.3.40/CourtRegistry-Update-0.3.40.exe",
-  "sha256": "C26744229FEF66B45A86A7F6582092AD02C5491326ACE26E36B9C667A197D9F6",
-  "size": 103335535,
-  "signature": "/A6zPtn7wnSAnLIGmoAUFgfzClPm08abN7x5J7iKIV1ysysDWh/yASyntcFy6dds3S9mv3bX1fOx3dQgP0/HCA=="
+  "version": "0.3.41",
+  "installerUrl": "https://github.com/Osttik/CourtRegistry-Releases/releases/download/v0.3.41/CourtRegistry-Update-0.3.41.exe",
+  "sha256": "29155B854BB019A2F77127F22B04300434A6836CDF5E01BBB998E7A9931D8401",
+  "size": 103301998,
+  "signature": "27BNSRVa2bQa4BE01uhV6zsTd2aHqvD+SxvG2FhnmUZajtZWU059yvcGI7zezE95dYy5sMeF67YN8C+yIfVrDQ=="
 }
